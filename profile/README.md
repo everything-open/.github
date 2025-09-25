@@ -65,6 +65,6 @@ See our [Contributing Guidelines](./CONTRIBUTING.md) to get started.
 
 ### 🎉 Ready to Make Your First Contribution?
 
-Start with our [Beginner's Guide](./BEGINNER-GUIDE.md) or jump straight into browsing projects in your favorite language!
+Start with our [Beginner's Guide](./BEGINNER_GUIDE.md) or jump straight into browsing projects in your favorite language!
 
 **Every expert was once a beginner. Every pro was once an amateur.**
