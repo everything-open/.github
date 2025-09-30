@@ -16,10 +16,10 @@ Everything Open helps developers of all levels find and contribute to open sourc
 
 We currently highlight projects in:
 
-- JavaScript, TypeScript
+- [JavaScript, TypeScript](https://github.com/everything-open/javascript-typescript-projects)
 - [Dart, Flutter](https://github.com/everything-open/dart-flutter-projects)
 - [Python](https://github.com/everything-open/python-projects)
-- Kotlin
+- [Kotlin](https://github.com/everything-open/kotlin-projects)
 
 More languages will be added soon.
 
