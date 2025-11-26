@@ -1,4 +1,4 @@
-# Contributing to Everything Open
+# Contributing to Open Source Society Zimbabwe
 
 Thank you for your interest in contributing! We welcome all kinds of contributions to help grow our open source community.
 
