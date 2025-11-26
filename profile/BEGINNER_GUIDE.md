@@ -1,6 +1,6 @@
 # Beginner Guide
 
-Welcome to Everything Open! Whether you're new to open source or just new to our community, this guide will help you get started.
+Welcome to Open Source Society Zimbabwe! Whether you're new to open source or just new to our community, this guide will help you get started.
 
 ## Why Contribute to Open Source?
 
@@ -41,6 +41,6 @@ We offer mentorship opportunities and encourage you to connect with maintainers.
 ## More Resources
 
 - [Contributing Guidelines](./CONTRIBUTING.md)
-- [GitHub Discussions](https://github.com/orgs/everything-open/discussions)
+- [GitHub Discussions](https://github.com/orgs/oss-zw/discussions)
 
 Happy contributing!
